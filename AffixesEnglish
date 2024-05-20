@@ -355,6 +355,8 @@ Class Implicit
 25% Lightning/Shadow Resistance
 25% Poison/Shadow Resistance
 Class All Classes
+Lucky Hit: Chance To Make Enemies Vulnerable 
+Attack Speed
 Barrier Generation
 Critical Strike Chance
 Critical Strike Damage
@@ -491,6 +493,7 @@ While Injured, Your Potion Also Grants 30% Movement Speed for 2 Seconds
 While Injured, Your Potion Also Restores 20% Resource
 Class All Classes
 All Stats
+Damage
 Control Impaired Duration Reduction
 Damage for 4 seconds After Killing an Elite
 Damage Reduction
@@ -550,6 +553,7 @@ Ranks of Meteor
 #Boots
 Class Implicit
 +2 Max Evade Charges
+Maximum Life
 Attacks Reduce Evade's Cooldown by 0.8 Second
 Evade Grants +50% Movement Speed for 1 Second
 Class All Classes
@@ -647,6 +651,7 @@ Class Implicit
 80% Main Hand Weapon Damage
 Class All Classes
 All Stats
+Attack Speed
 Basic Skill Attack Speed
 Basic Skill Damage
 Cooldown Reduction
