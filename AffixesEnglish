@@ -130,6 +130,7 @@ Poison Damage
 Shadow Damage
 Trap Skill Damage
 Class Sorcerer
+Ranks of Flame Shield
 Barrier Generation
 Cold Damage
 Conjuration Skill Damage
@@ -354,6 +355,7 @@ Class Implicit
 25% Lightning/Shadow Resistance
 25% Poison/Shadow Resistance
 Class All Classes
+Attack Speed
 Barrier Generation
 Critical Strike Chance
 Critical Strike Damage
@@ -365,6 +367,7 @@ Damage to Injured Enemies
 Damage to Slowed Enemies
 Damage to Stunned Enemies
 Life Regeneration while Not Damaged Recently
+Lucky Hit: Chance To Make Enemies Vulnerable 
 Maximum Life
 Overpower Damage
 Resource Generation
@@ -490,6 +493,7 @@ While Injured, Your Potion Also Grants 30% Movement Speed for 2 Seconds
 While Injured, Your Potion Also Restores 20% Resource
 Class All Classes
 All Stats
+Damage
 Control Impaired Duration Reduction
 Damage for 4 seconds After Killing an Elite
 Damage Reduction
@@ -553,6 +557,7 @@ Attacks Reduce Evade's Cooldown by 0.8 Second
 Evade Grants +50% Movement Speed for 1 Second
 Class All Classes
 All Stats
+Maximum Life
 Cold Resistance
 Damage Reduction while Injured
 Dexterity
@@ -646,6 +651,7 @@ Class Implicit
 80% Main Hand Weapon Damage
 Class All Classes
 All Stats
+Attack Speed
 Basic Skill Attack Speed
 Basic Skill Damage
 Cooldown Reduction
