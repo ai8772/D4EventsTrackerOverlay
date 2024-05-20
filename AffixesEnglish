@@ -355,7 +355,6 @@ Class Implicit
 25% Lightning/Shadow Resistance
 25% Poison/Shadow Resistance
 Class All Classes
-Lucky Hit: Chance To Make Enemies Vulnerable 
 Attack Speed
 Barrier Generation
 Critical Strike Chance
@@ -368,6 +367,7 @@ Damage to Injured Enemies
 Damage to Slowed Enemies
 Damage to Stunned Enemies
 Life Regeneration while Not Damaged Recently
+Lucky Hit: Chance To Make Enemies Vulnerable 
 Maximum Life
 Overpower Damage
 Resource Generation
@@ -553,11 +553,11 @@ Ranks of Meteor
 #Boots
 Class Implicit
 +2 Max Evade Charges
-Maximum Life
 Attacks Reduce Evade's Cooldown by 0.8 Second
 Evade Grants +50% Movement Speed for 1 Second
 Class All Classes
 All Stats
+Maximum Life
 Cold Resistance
 Damage Reduction while Injured
 Dexterity
