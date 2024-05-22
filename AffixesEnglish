@@ -58,28 +58,18 @@ Ranks to Conjuration Skills
 #END
 #Chest
 Class All Classes
-All Stats
-Barrier Generation
-Cold Resistance
-Control Impaired Duration Reduction
-Damage
-Damage Reduction
-Damage Reduction from Close Enemies
-Damage Reduction from Distant Enemies
-Dexterity
-Fire Resistance
-Intelligence
-Life on Kill
-Lightning Resistance
+Armor
+Healing Received
+Impairment Reduction
+Life per Second
 Maximum Life
+Thorns
+Resistance to All Elements
+Cold Resistance
+Fire Resistance
+Lightning Resistance
 Poison Resistance
 Shadow Resistance
-Spirit per Second
-Strength
-Thorns
-Total Armor
-Ultimate Skill Damage
-Willpower
 Class Barbarian
 Brawling Skill Damage
 Damage Reduction from Enemies That Are Bleeding
@@ -148,19 +138,25 @@ Shock Skill Damage
 #END
 #Gloves
 Class All Classes
-All Stats
+Armor
 Attack Speed
 Critical Strike Chance
-Critical Strike Chance Against Injured Enemies
-Damage to Injured Enemies
-Dexterity
-Intelligence
-Chance to Restore [X]% Primary Resource
-Lucky Hit: Up to a [X]% Chance to Heal
-Lucky Hit: Up to a [X]% Chance to Slow
+Critical Strike Damage
+Damage Over Time
+Life per Hit
+Lucky Hit Chance
+Lucky Hit: Up to a 5% Chance to Restore X% Primary Resource
+Lucky Hit: Up to a X% Chance to Make Enemies Vulnerable for 2 Seconds
+Maximum Life
 Overpower Damage
-Strength
-Willpower
+Ranks to Core Skills
+Vulnerable Damage
+Resistance to All Elements
+Cold Resistance
+Fire Resistance
+Lightning Resistance
+Poison Resistance
+Shadow Resistance
 Class Barbarian
 Physical Damage Over Time
 Ranks of Double Swing
@@ -206,32 +202,27 @@ Ranks of Incinerate
 #END
 #Amulet
 Class Implicit
-18.5% Resistance to All Elements
+25% Resistance to All Elements
 Class All Classes
-Control Impaired Duration Reduction
+Attack Speed
 Cooldown Reduction
-Critical Strike Chance Against Injured Enemies
-Crowd Control Duration
+Critical Strike Chance
 Damage
-Damage for 4 seconds After Killing an Elite
-Damage Reduction
-Damage Reduction from Close Enemies
-Damage Reduction from Distance Enemies
-Damage Reduction while Injured
-Dexterity
-Dodge Chance
-Healing Received
-Intelligence
-Lucky Hit Chance while You Have a Barrier
+Life per Hit
+Life per Second
+Lucky Hit Chance
+Lucky Hit: Up to a X% Chance to Make Enemies Vulnerable for 2 Seconds
+Maximum Life
+Maximum Resource
 Movement Speed
-Movement Speed for 4 Seconds After Killing an Elite
-Shrine Buff Duration
-Slow Duration Reduction
-Strength
-Thorns
+Resource Cost Reduction
 Total Armor
-Ultimate Skill Damage
-Willpower
+Resistance to All Elements
+Cold Resistance
+Fire Resistance
+Lightning Resistance
+Poison Resistance
+Shadow Resistance
 Class Barbarian
 Brawling Skill Damage
 Damage Reduction from Enemies That Are Bleeding
@@ -349,34 +340,33 @@ Shock Skill Damage
 #END
 #Ring
 Class Implicit
-25% Cold/Fire Resistance
-25% Cold/Lightning Resistance
-25% Cold/Poison Resistance
-25% Cold/Shadow Resistance
-25% Fire/Lightning Resistance
-25% Fire/Poison Resistance
-25% Fire/Shadow Resistance
-25% Lightning/Poison Resistance
-25% Lightning/Shadow Resistance
-25% Poison/Shadow Resistance
+8% All Resistances
+10% Cold Resistance
+10% Cold Resistance
+10% Fire Resistance
+10% Lightning Resistance
+10% Poison Resistance
+10% Shadow Resistance
 Class All Classes
 Attack Speed
-Barrier Generation
 Critical Strike Chance
 Critical Strike Damage
+Damage
 Damage Over Time
-Damage to Close Enemies
-Damage to Crowd Controlled Enemies
-Damage to Distant Enemies
-Damage to Injured Enemies
-Damage to Slowed Enemies
-Damage to Stunned Enemies
-Life Regeneration while Not Damaged Recently
-Lucky Hit: Chance To Make Enemies Vulnerable 
+Life per Hit
+Life per Second
+Lucky Hit Chance
+Lucky Hit: Up to a X% Chance to Make Enemies Vulnerable for 2 Seconds
 Maximum Life
 Overpower Damage
-Resource Generation
+Resource Cost Reduction
 Vulnerable Damage
+Resistance to All Elements
+Cold Resistance
+Fire Resistance
+Lightning Resistance
+Poison Resistance
+Shadow Resistance
 Class Barbarian
 Damage to Bleeding Enemies
 Damage while Berserking
@@ -429,95 +419,65 @@ Lightning Damage
 Maximum Mana
 #END
 #Weapon
-Class Implicit (Non-upgraded 725 Item Power values)
-1h Axe: 28% Damage to Healthy Enemies
-1h Mace: 31.5% Overpower Damage
-1h Scythe: 206 Life on Kill
-1h Sword: 17.5% Critical Strike Damage
-2h Axe: 56% Damage to Healthy Enemies
-2h Mace: 63% Overpower Damage
-2h Scythe: 411 Life on Kill
-2h Sword: 35% Critical Strike Damage
-Bow: 40% Damage to Distant Enemies
-Crossbow: 40% Vulnerable Damage
-Dagger: 20% Damage to Close Enemies
-Polearm: 56% Damage to Injured Enemies
-Staff: 35% Damage to Crowd Controlled Enemies
+Class Implicit
+1h Sword: 15% Critical Strike Damage
+2h Sword: 30% Critical Strike Damage
+1h Axe: 25% Damage to Healthy Enemies
+2h Axe: 50% Damage to Healthy Enemies
+1h Mace: 52.5% Overpower Damage
+2h Mace: 105% Overpower Damage
+Polearm: 50% Damage to Injured Enemies
+Dagger: 16.7% Damage to Close Enemies
+Bow: 33.4% Damage to Distant Enemies
+Crossbow: 32% Vulnerable Damage
+1h Scythe: 114 Life On Kill
+2h Scythe: 228 Life On Kill
 Wand: 10% Lucky Hit Chance
+Staff: 35% Damage to Crowd Controlled Enemies
 Class All Classes
 All Stats
 Attack Speed
-Basic Skill Damage
-Core Skill Damage
 Critical Strike Damage
+Damage
 Damage Over Time
-Damage to Close Enemies
-Damage to Crowd Controlled Enemies
-Damage to Distant Enemies
-Damage to Injured Enemies
-Damage to Slowed Enemies
-Damage to Stunned Enemies
-Lucky Hit: Up to [X] Chance to Execute Injured Non-Elites
-Mastery Skill Damage
+Life per Hit
+Lucky Hit: Up to a 5% Chance to Restore X% Primary Resource
+Maximum Life
 Overpower Damage
-Ultimate Skill Damage
+Resource Cost Reduction
 Vulnerable Damage
 Class Barbarian
-Damage to Bleeding Enemies
-Damage while Berserking
+Strength
+Fury on Kill
 Strength
 Class Druid
-Critical Strike Damage with Earth Skills
-Critical Strike Damage with Werewolf Skills
-Damage to Poisoned Enemies
-Lightning Critical Strike Damage
-Overpower Damage with Werebear Skills
 Willpower
+Spirit on Kill
 Class Necromancer
-Critical Strike Damage with Bone Skills
-Damage to Affected by Shadow Damage Over Time Enemies
 Intelligence
+Essence on Kill
 Class Rogue
-Critical Strike Damage with Imbued Skills
-Damage to Chilled Enemies
-Damage to Dazed Enemies
-Damage to Enemies Affected by Trap Skills
-Damage to Frozen Enemies
-Damage to Poisoned Enemies
 Dexterity
+Energy on Kill
 Class Sorcerer
-Damage to Burning Enemies
-Damage to Chilled Enemies
-Damage to Frozen Enemies
 Intelligence
-Lightning Critical Strike Damage
+Mana on Kill
 #END
 #Pants
-Class Implicit
-While Injured, Your Potion Also Grants 20% Maximum Life as Barrier
-While Injured, Your Potion Also Grants 30% Movement Speed for 2 Seconds
-While Injured, Your Potion Also Restores 20% Resource
-Class All Classes
-All Stats
-Damage
-Control Impaired Duration Reduction
-Damage for 4 seconds After Killing an Elite
-Damage Reduction
-Damage Reduction from Close Enemies
-Damage Reduction from Distant Enemies
-Dexterity
+Armor
 Dodge Chance
-Dodge Chance Against Close Enemies
 Healing Received
-Intelligence
-Life Regeneration while Not Damaged Recently
+Impairment Reduction
+Life per Second
 Maximum Life
-Potion Capacity
-Potion Drop Rate
-Strength
+Ranks to Basic Skills
 Thorns
-Total Armor
-Willpower
+Resistance to All Elements
+Cold Resistance
+Fire Resistance
+Lightning Resistance
+Poison Resistance
+Shadow Resistance
 Class Barbarian
 Berserking Duration
 Damage Reduction from Enemies That Are Bleeding
@@ -558,30 +518,22 @@ Ranks of Meteor
 #END
 #Boots
 Class Implicit
-+2 Max Evade Charges
-Attacks Reduce Evade's Cooldown by 0.8 Second
-Evade Grants +50% Movement Speed for 1 Second
++3 Max Evade Charges
+Evade Grants +125% Movement Speed for 1 Second
+Attacks Reduce Evade's Cooldown by 1.5 Seconds
 Class All Classes
-All Stats
-Maximum Life
-Cold Resistance
-Damage Reduction while Injured
-Dexterity
+Armor
 Dodge Chance
-Dodge Chance Against Distant Enemies
-Dodge Change
-Fire Resistance
-Intelligence
-Lightning Resistance
+Impairment Reduction
+Life per Second
+Maximum Life
 Movement Speed
-Movement Speed for 4 seconds After Killing an Elite
+Resistance to All Elements
+Cold Resistance
+Fire Resistance
+Lightning Resistance
 Poison Resistance
 Shadow Resistance
-Shrine Buff Duration
-Slow Duration Reduction
-Spirit per Second
-Strength
-Willpower
 Class Barbarian
 Berserking Duration
 Fortify Generation
@@ -610,82 +562,50 @@ Ranks of Teleport
 #END
 #Off-Hands
 Class Implicit
-7% Cooldown Reduction
+7.5% Cooldown Reduction
 Class All Classes
-All Stats
-Barrier Generation
-Basic Skill Attack Speed
-Basic Skill Damage
+Attack Speed
 Cooldown Reduction
 Critical Strike Chance
-Critical Strike Chance Against Injured Enemies
-Crowd Control Duration
-Dexterity
-Healing Received
-Intelligence
-Life On Kill
-Lucky Hit: Chance to Restore [X]% Primary Resource
-Lucky Hit: Up to [X]% Chance to Slow
-Lucky Hit: Up to a [X]% Chance to Heal
-Lucky Hit Chance while You Have a Barrier
-Resource Generation
-Strength
-Willpower
+Damage
+Life per Hit
+Lucky Hit Chance
+Lucky Hit: Up to a 5% Chance to Restore X% Primary Resource
+Maximum Life
+Maximum Resource
+Resource Cost Reduction
 Class Druid
-Damage Reduction from Enemies That Are Poisoned
-Damage Reduction while Fortified
-Fortify Generation
-Spirit Cost Reduction
+Willpower
+Spirit on Kill
 Class Necromancer
-Blood Orb Healing
-Damage Reduction from Affected By Shadow Damage Over Time Enemies
-Damage Reduction while Fortified
-Essence Cost Reduction
-Fortify Generation
-Maximum Minion Life
+Intelligence
+Essence on Kill
 Class Sorcerer
-Crackling Energy Damage
-Damage Reduction from Enemies That Are Burning
-Lucky Hit Chance while You Have a Barrier
-Mana Cost Reduction
+Intelligence
+Mana on Kill
 #END
 #Shield
 Class Implicit
 20% Block Chance
 60% Block Damage Reduction
-627 Thorns
 80% Main Hand Weapon Damage
+672 Thorns
 Class All Classes
 All Stats
+Impairment Reduction
+Armor
 Attack Speed
-Basic Skill Attack Speed
-Basic Skill Damage
-Cooldown Reduction
 Critical Strike Chance
-Critical Strike Chance Against Injured Enemies
-Crowd Control Duration
+Damage
 Damage Reduction
-Damage Reduction from Close Enemies
-Damage Reduction from Distant Enemies
-Dexterity
-Healing Received
-Intelligence
-Life On Kill
-Lucky Hit: Chance to Restore [X]% Primary Resource
-Lucky Hit: Up to [X]% Chance to Slow
-Lucky Hit: Up to a [X]% Chance to Heal
+Life per Second
 Maximum Life
-Resistance to All Elements
-Resource Generation
-Strength
 Thorns
-Willpower
+Resistance to All Elements
+Cold Resistance
+Fire Resistance
+Lightning Resistance
+Poison Resistance
+Shadow Resistance  
 Class Necromancer
-Blood Orb Healing
-Damage for 4 Seconds After Picking Up a Blood Orb
-Damage Reduction from Affected By Shadow Damage Over Time Enemies
-Damage Reduction while Fortified
-Essence Cost Reduction
-Fortify Generation
-Maximum Minion Life
-Minion Attack Speed
+Intelligence
