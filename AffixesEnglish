@@ -18,11 +18,7 @@ Shadow Resistance
 Class Barbarian
 Strength
 Fury per Second
-Damage while Berserking
 Ranks to Death Blow
-Ranks to Rupture
-Ranks to Steel Grasp
-Ranks of Death Blow
 Ranks of Rupture
 Ranks of Steel Grasp
 Class Druid
@@ -70,18 +66,13 @@ Fire Resistance
 Lightning Resistance
 Poison Resistance
 Shadow Resistance
+Ranks to Defensive Skills
 Class Barbarian
 Strength
-Brawling Skill Damage
-Damage Reduction from Enemies That Are Bleeding
-Damage Reduction while Fortified
-Fortify Generation
-Physical Damage
 Ranks of Challenging Shout
 Ranks of Ground Stomp
 Ranks of Iron Skin
 Ranks of Rallying Cry
-Weapon Mastery Skill Damage
 Class Druid
 Companion Skill Damage
 Damage Reduction from Enemies That Are Poisoned
@@ -146,7 +137,6 @@ Critical Strike Damage
 Damage Over Time
 Life per Hit
 Lucky Hit Chance
-Lucky Hit: Up to a 5% Chance to Restore X% Primary Resource
 Lucky Hit: Up to a X% Chance to Make Enemies Vulnerable for 2 Seconds
 Maximum Life
 Overpower Damage
@@ -160,7 +150,6 @@ Poison Resistance
 Shadow Resistance
 Class Barbarian
 Strength
-Physical Damage Over Time
 Ranks of Double Swing
 Ranks of Hammer of the Ancients
 Ranks of Rend
@@ -227,27 +216,16 @@ Poison Resistance
 Shadow Resistance
 Class Barbarian
 Strength
-Brawling Skill Damage
-Damage Reduction from Enemies That Are Bleeding
-Damage Reduction while Fortified
-Damage with Dual-Wielded Weapons
-Damage with Skills that Swap to New Weapons
-Damage with Two-Handed Bludgeoning Weapons
-Damage with Two-Handed Slashing Weapons
-Fury Cost Reduction
-Overpower Damage with Two-Handed Bludgeoning Weapons
-Ranks of All Defensive Skills
+Fury on Kill
 Ranks of All Weapon Mastery Skills
 Ranks of the Brute Force Passive
 Ranks of the Counteroffensive Passive
 Ranks of the Cut to the Bone Passive
+Ranks of the Duelist Passive
 Ranks of the Heavy Handed Passive
 Ranks of the No Mercy Passive
-Ranks of the Outburst Passive
+Ranks of the Pit Fighter Passive
 Ranks of the Slaying Strike Passive
-Ranks of the Tough as Nails Passive
-Ranks of the Wallop Passive
-Weapon Mastery Skill Damage
 Class Druid
 Companion Skill Damage
 Damage Reduction while Fortified
@@ -371,55 +349,20 @@ Lightning Resistance
 Poison Resistance
 Shadow Resistance
 Class Barbarian
-Damage to Bleeding Enemies
-Damage while Berserking
-Fortify Generation
-Maximum Fury
-Physical Damage
+Strength
+Fury on Kill
 Class Druid
-Critical Strike Damage with Earth Skills
-Critical Strike Damage with Werewolf Skills
-Damage to Poisoned Enemies
-Fortify Generation
-Lightning Damage
-Maximum Spirit
-Physical Damage
-Poison Damage
+Willpower
+Spirit on Kill
 Class Necromancer
-Blood Orb Healing
-Critical Strike Damage with Bone Skills
-Damage for 4 Seconds After Picking Up a Blood Orb
-Damage to Affected by Shadow Damage Over Time Enemies
-Fortify Generation
-Golems Inherit [X]% of Your Thorns
-Maximum Essence
-Maximum Minion Life
-Physical Damage
-Shadow Damage
-Skeletal Mages Inherit [X]% of Your Thorns
-Skeletal Warriors Inherit [X]% of Your Thorns
+Intelligence
+Essence on Kill
 Class Rogue
-Cold Damage
-Critical Strike Damage with Imbued Skills
-Damage to Chilled Enemies
-Damage to Dazed Enemies
-Damage to Enemies Affected by Trap Skills
-Damage to Frozen Enemies
-Damage to Poisoned Enemies
-Imbued Skill Damage
-Maximum Energy
-Physical Damage
-Shadow Damage
+Dexterity
+Energy on Kill
 Class Sorcerer
-Cold Damage
-Cracking Energy Damage
-Damage to Burning Enemies
-Damage to Chilled Enemies
-Damage to Frozen Enemies
-Fire Damage
-Lightning Critical Strike Damage
-Lightning Damage
-Maximum Mana
+Intelligence
+Mana on Kill
 #END
 #Weapon
 Class Implicit
@@ -438,7 +381,6 @@ Crossbow: 32% Vulnerable Damage
 Wand: 10% Lucky Hit Chance
 Staff: 35% Damage to Crowd Controlled Enemies
 Class All Classes
-All Stats
 Attack Speed
 Critical Strike Damage
 Damage
@@ -446,14 +388,12 @@ Damage Over Time
 Life per Hit
 Lucky Hit: Up to a 5% Chance to Restore X% Primary Resource
 Maximum Life
-Mastery Damage
 Overpower Damage
 Resource Cost Reduction
 Vulnerable Damage
 Class Barbarian
 Strength
 Fury on Kill
-Strength
 Class Druid
 Willpower
 Spirit on Kill
@@ -468,6 +408,7 @@ Intelligence
 Mana on Kill
 #END
 #Pants
+Class All Classes
 Armor
 Dodge Chance
 Healing Received
@@ -483,13 +424,11 @@ Lightning Resistance
 Poison Resistance
 Shadow Resistance
 Class Barbarian
-Berserking Duration
-Damage Reduction from Enemies That Are Bleeding
-Damage Reduction while Fortified
-Ranks of Charge
-Ranks of Kick
-Ranks of Leap
-Ranks of War Cry
+Strength
+Ranks of Bash
+Ranks of Flay
+Ranks of Frenzy
+Ranks of Lunging Strike
 Class Druid
 Damage Reduction from Enemies that are Poisoned
 Damage Reduction while Fortified
@@ -539,9 +478,13 @@ Lightning Resistance
 Poison Resistance
 Shadow Resistance
 Class Barbarian
-Berserking Duration
-Fortify Generation
-Fury Cost Reduction
+Strength
+Fury per Second
+Ranks of Charge
+Ranks of Kick
+Ranks of Leap
+Ranks of War Cry
+Ranks to Brawling Skills
 Class Druid
 Fortify Generation
 Spirit Cost Reduction
