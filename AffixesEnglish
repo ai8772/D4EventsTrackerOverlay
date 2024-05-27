@@ -69,64 +69,46 @@ Shadow Resistance
 Ranks to Defensive Skills
 Class Barbarian
 Strength
-Ranks of Challenging Shout
-Ranks of Ground Stomp
-Ranks of Iron Skin
-Ranks of Rallying Cry
+Fury per Second
+Ranks to Challenging Shout
+Ranks to Defensive Skills
+Ranks to Ground Stomp
+Ranks to Iron Skin
+Ranks to Rallying Cry
 Class Druid
-Companion Skill Damage
-Damage Reduction from Enemies That Are Poisoned
-Damage Reduction while Fortified
-Damage whiile in Human Form
-Damage while Shapeshifted
-Earth Skill Damage
-Fortify Generation
-Lightning Damage
-Overpower Damage with Werebear Skills
-Physical Damage
-Poison Damage
-Ranks of Blood Howl
-Ranks of Cyclone Armor
-Ranks of Debilitating Roar
-Ranks of Earthen Bulwark
-Storm Skill Damage
-Werebear Skill Damage
-Werewolf Skill Damage
+Willpower
+Spirit per Second
+Ranks to Blood Howl
+Ranks to Cyclone Armor
+Ranks to Debilitating Roar
+Ranks to Defensive Skills
+Ranks to Earthen Bulwark
 Class Necromancer
-Blood Skill Damage
-Bone Skill Damage
-Damage for 4 Seconds After Picking Up a Blood Orb
-Damage Reduction from Affected By Shadow Damage Over Time Enemies
-Damage Reduction while Fortified
-Darkness Skill Damage
-Fortify Generation
-Maximum Minion Life
-Physical Damage
-Shadow Damage
-Summoning Skill Damage
+Intelligence
+Essence per Second
+Ranks to Blood Mist
+Ranks to Bone Prison
+Ranks to Corpse Explosion
+Ranks to Golem Mastery
+Ranks to Macabre Skills
+Ranks to Skeletal Mage Mastery
+Ranks to Skeletal Warrior Mastery
 Class Rogue
-Cutthroat Skill Damage
-Damage Reduction from Enemies That Are Poisoned
-Damage with Dual-Wielded Weapons
-Damage with Ranged Weapons
-Damage with Skills that Swap to New Weapons
-Imbued Skill Damage
-Marksman Skill Damage
-Physical Damage
-Poison Damage
-Shadow Damage
-Trap Skill Damage
+Dexterity
+Energy per Second
+Ranks to Concealment
+Ranks to Dark Shroud
+Ranks to Poison Trap
+Ranks to Smoke Grenades
+Ranks to Subterfuge Skills
 Class Sorcerer
-Ranks of Flame Shield
-Barrier Generation
-Cold Damage
-Conjuration Skill Damage
-Damage Reduction from Enemies That Are Burning
-Fire Damage
-Frost Skill Damage
-Lightning Damage
-Pyromancy Skill Damage
-Shock Skill Damage
+Intelligence
+Mana per Second
+Ranks to Defensive Skills
+Ranks to Flame Shield
+Ranks to Frost Nova
+Ranks to Ice Armor
+Ranks to Teleport
 #END
 #Gloves
 Class All Classes
@@ -156,40 +138,37 @@ Ranks of Rend
 Ranks of Upheaval
 Ranks of Whirlwind
 Class Druid
-Critical Strike Damage with Earth Skills
-Critical Strike Damage with Werewolf Skills
-Ranks of Landslide
-Ranks of Lightning Storm
-Ranks of Pulverize
-Ranks of Shred
-Ranks of Tornado
-Storm Skill Cooldown Reduction
+Willpower
+Ranks to Landslide
+Ranks to Lightning Storm
+Ranks to Pulverize
+Ranks to Shred
+Ranks to Tornado
 Class Necromancer
-Critical Strike Damage with Bone Skills
-Ranks of Blight
-Ranks of Blood Lance
-Ranks of Blood Surge
-Ranks of Bone Spear
-Ranks of Sever
-Shadow Damage Over Time
+Intelligence
+Ranks to Blight
+Ranks to Blood Lance
+Ranks to Blood Surge
+Ranks to Bone Spear
+Ranks to Golem Mastery
+Ranks to Sever
+Ranks to Skeletal Mage Mastery
+Ranks to Skeletal Warrior Mastery
 Class Rogue
-Attack Speed for 4 seconds after Dodging an Attack
-Critical Strike Damage with Imbued Skills
-Ranks of Barrage
-Ranks of Flurry
-Ranks of Penetrating Shot
-Ranks of Rapid Fire
-Ranks of Twisting Blades
-Reduces the Arm Time of your Trap Skills
-Trap Skill Cooldown Reduction
+Dexterity
+Ranks to Barrage
+Ranks to Flurry
+Ranks to Penetrating Shot
+Ranks to Rapid Fire
+Ranks to Twisting Blades
 Class Sorcerer
-Fire Damage Over Time
-Lightning Critical Strike Damage
-Ranks of Chain LightningRanks of Charged Bolts
-Ranks of Fireball
-Ranks of Frozen Orb
-Ranks of Ice Shards
-Ranks of Incinerate
+Intelligence
+Ranks to Chain Lightning
+Ranks to Charged Bolts
+Ranks to Fireball
+Ranks to Frozen Orb
+Ranks to Ice Shards
+Ranks to Incinerate
 #END
 #Amulet
 Class Implicit
@@ -215,109 +194,69 @@ Lightning Resistance
 Poison Resistance
 Shadow Resistance
 Class Barbarian
-Strength
 Fury on Kill
-Ranks of All Weapon Mastery Skills
-Ranks of the Brute Force Passive
-Ranks of the Counteroffensive Passive
-Ranks of the Cut to the Bone Passive
-Ranks of the Duelist Passive
-Ranks of the Heavy Handed Passive
-Ranks of the No Mercy Passive
-Ranks of the Pit Fighter Passive
-Ranks of the Slaying Strike Passive
+Ranks to Brute Force
+Ranks to Counteroffensive
+Ranks to Cut to the Bone
+Ranks to Heavy Handed
+Ranks to No Mercy
+Ranks to Pit Figher
+Ranks to Slaying Strike
+Ranks to Weapon Mastery Skills
 Class Druid
-Companion Skill Damage
-Damage Reduction while Fortified
-Damage while in Human Form
-Damage while Shapeshifted
-Earth Skill Damage
-Overpower Damage with Werebear Skills
-Ranks of All Companion Skills
-Ranks of All Defensive Skills
-Ranks of All Wrath Skills
-Ranks of the Call of the Wild Passive
-Ranks of the Crushing Earth Passive
-Ranks of the Defiance Passive
-Ranks of the Envenom Passive
-Ranks of the Natural Disaster Passive
-Ranks of the Nature's Reach Passive
-Ranks of the Quickshift Passive
-Ranks of the Resonance Passive
-Ranks of the Stone Guard Passive
-Ranks of the Toxic Claws Passive
-Ranks of the Wild Impulses Passive
-Spirit Cost Reduction
-Storm Skill Cooldown Reduction
-Storm Skill Damage
-Total Armor while in Werewolf Form
-Werebear Skill Damage
-Werewolf Skill Damage
+Willpower
+Spirit on Kill
+Ranks to Call of the Wild
+Ranks to Crushing Earth
+Ranks to Defiance
+Ranks to Envenom
+Ranks to Heightened Senses
+Ranks to Nature's Reach
+Ranks to Natural Disaster
+Ranks to Quickshift
+Ranks to Resonance
+Ranks to Toxic Claws
+Ranks to Wild Impulses
 Class Necromancer
-Blood Skill Damage
-Bone Skill Damage
-Damage Reduction from Affected By Shadow Damage Over Time Enemies
-Damage Reduction while Fortified
-Darkness Skill Damage
-Essence Cost Reduction
-Minion Attack Speed
-Ranks of All Corpse Skills
-Ranks of All Curse Skills
-Ranks of All Macabre Skills
-Ranks of the Amplify Damage Passive
-Ranks of the Coalesced Blood Passive
-Ranks of the Compound Fracture Passive
-Ranks of the Death's Reach Passive
-Ranks of the Evulsion Passive
-Ranks of the Fueled by Death Passive
-Ranks of the Gloom Passive
-Ranks of the Hellbent Commander Passive
-Ranks of the Imperfectly Balanced Passive
-Ranks of the Terror Passive
-Ranks of the Tides of Blood Passive
-Summoning Skill Damage
+Intelligence
+Essence on Kill
+Ranks to Amplify Damage
+Ranks to Coalesced Blood
+Ranks to Compound Fracture
+Ranks to Death's Embrace
+Ranks to Evulsion
+Ranks to Fueled by Death
+Ranks to Gloom
+Ranks to Hellbent Commander
+Ranks to Imperfectly Balanced
+Ranks to Terror
+Ranks to Tides of Blood
 Class Rogue
-Attack Speed for 4 seconds after Dodging an Attack
-Cutthroat Skill Damage
-Damage Reduction from Enemies That Are Poisoned
-Damage with Dual-Wielded Weapons
-Damage with Ranged Weapons
-Energy Cost Reduction
-Imbued Skill Damage
-Imbuement Skill Cooldown Reduction
-Marksman Skill Damage
-Rank of All Agility Skills
-Rank of All Imbuement Skills
-Ranks of All Subterfuge Skills
-Ranks of the Deadly Venom Passive
-Ranks of the Exploit Passive
-Ranks of the Frigid Finesse Passive
-Ranks of the Impetus Passive
-Ranks of the Malice Passive
-Ranks of the Weapon Mastery Passive
-Reduces the Arm Time of your Trap Skills
-Trap Skill Cooldown Reduction
-Trap Skill Damage
+Dexterity
+Energy on Kill
+Ranks to Alchemical Advantage
+Ranks to Concussive
+Ranks to Deadly Venom
+Ranks to Exploit
+Ranks to Frigid Finesse
+Ranks to Impetus
+Ranks to Malice
+Ranks to Precison Imbuement
+Ranks to Trap Mastery
+Ranks to Weapon Mastery
 Class Sorcerer
-Conjuration Skill Damage
-Frost Skill Damage
-Lucky Hit Chance while You Have a Barrier
-Mana Cost Reduction
-Pyromancy Skill Damage
-Ranks of All Conjuration Skills
-Ranks of All Defensive Skills
-Ranks of All Mastery Skills
-Ranks of the Conjuration Mastery Passive
-Ranks of the Devouring Blaze Passive
-Ranks of the Elemental Dominance Passive
-Ranks of the Endless Pyre Passive
-Ranks of the Glass Cannon Passive
-Ranks of the Hoarfrost Passive
-Ranks of the Icy Touch Passive
-Ranks of the Inner Flames Passive
-Ranks of the Permafrost Passive
-Ranks of the Shocking Impact Passive
-Shock Skill Damage
+Intelligence
+Mana on Kill
+Ranks to Conjuration Mastery
+Ranks to Devouring Blaze
+Ranks to Elemental Dominance
+Ranks to Endless Pyre
+Ranks to Glass Cannon
+Ranks to Hoarfrost
+Ranks to Icy Touch
+Ranks to Inner Flames
+Ranks to Permafrost
+Ranks to Shocking Impact
 #END
 #Ring
 Class Implicit
@@ -430,34 +369,34 @@ Ranks of Flay
 Ranks of Frenzy
 Ranks of Lunging Strike
 Class Druid
-Damage Reduction from Enemies that are Poisoned
-Damage Reduction while Fortified
-Ranks of Boulder
-Ranks of Hurricane
-Ranks of Rabies
-Ranks of Trample
-Total Armor while in Werebear Form
+Willpower
+Ranks to Claw
+Ranks to Earth Spike
+Ranks to Maul
+Ranks to Storm Strike
+Ranks to Wind Shear
 Class Necromancer
-Damage Reduction from Affected By Shadow Damage Over Time Enemies
-Damage Reduction while Fortified
-Ranks of Blood Mist
-Ranks of Bone Prison
-Ranks of Corpse Explosion
+Intelligence
+Ranks to Bone Splinters
+Ranks to Decompose
+Ranks to Golem Mastery
+Ranks to Hemorrhage
+Ranks to Reap
+Ranks to Skeletal Mage Mastery
+Ranks to Skeletal Warrior Mastery
 Class Rogue
-Damage for 4 Seconds After Dodging an Attack
-Damage Reduction from Enemies that are Poisoned
-Imbuement Skill Cooldown
-Ranks of Concealment
-Ranks of Dark Shroud
-Ranks of Poison Trap
-Ranks of Smoke Grenade
+Dexterity
+Ranks to Blade Shift
+Ranks to Forceful Arrow
+Ranks to Heartseeker
+Ranks to Invigorating Strike
+Ranks to Puncture
 Class Sorcerer
-Crackling Energy Damage
-Damage Reduction from Enemies That Are Burning
-Ranks of Ball Lightning
-Ranks of Blizzard
-Ranks of Firewall
-Ranks of Meteor
+Intelligence
+Ranks to Arc Lash
+Ranks to Fire Bolt
+Ranks to Frost Bolt
+Ranks to Spark
 #END
 #Boots
 Class Implicit
@@ -480,32 +419,42 @@ Shadow Resistance
 Class Barbarian
 Strength
 Fury per Second
+Ranks to Brawling Skills
 Ranks of Charge
 Ranks of Kick
 Ranks of Leap
 Ranks of War Cry
-Ranks to Brawling Skills
 Class Druid
-Fortify Generation
-Spirit Cost Reduction
-Total Armor while in Werewolf Form
+Willpower
+Spirit per Second
+Ranks to Hurricane
+Ranks to Boulder
+Ranks to Rabies
+Ranks to Trample
+Ranks to Wrath Skills
 Class Necromancer
-Essence Cost Reduction
-Fortify Generation
-Ranks of Bone Spirit
-Ranks of Corpse Tendrils
+Intelligence
+Essence per Second
+Ranks to Bone Spirit
+Ranks to Corpse Skills
+Ranks to Corpse Tendrils
+Ranks to Golem Mastery
+Ranks to Skeletal Mage Mastery
+Ranks to Skeletal Warrior Mastery
 Class Rogue
-Energy Cost Reduction
-Ranks of Caltrops
-Ranks of Dash
-Ranks of Shadow Step
+Dexterity
+Energy per Second
+Ranks to Dash
+Ranks to Caltrops
+Ranks to Shadow Step
 Class Sorcerer
-Crackling Energy Damage
-Mana Cost Reduction
-Ranks of Flame Shield
-Ranks of Frost Nova
-Ranks of Ice Armor
-Ranks of Teleport
+Intelligence
+Mana per Second
+Ranks to Meteor
+Ranks to Blizard
+Ranks to Firewall
+Ranks to Ball Lightning
+Ranks to Mastery Skills
 #END
 #Off-Hands
 Class Implicit
