@@ -505,3 +505,37 @@ Poison Resistance
 Shadow Resistance  
 Class Necromancer
 Intelligence
+#NecroOff-Hands
+Class Implicit
+20% Block Chance
+60% Block Damage Reduction
+80% Main Hand Weapon Damage
+672 Thorns
+7.5% Cooldown Reduction
+Class All Classes
+All Stats
+Armor
+Attack Speed
+Cooldown Reduction
+Critical Strike Chance
+Damage
+Damage Reduction
+Life per Hit
+Life per Second
+Lucky Hit Chance
+Lucky Hit: Up to a 5% Chance to Restore X% Primary Resource
+Maximum Life
+Maximum Resource
+Resource Cost Reduction
+Impairment Reduction
+Thorns
+Resistance to All Elements
+Cold Resistance
+Fire Resistance
+Lightning Resistance
+Poison Resistance
+Shadow Resistance
+Class Necromancer
+Intelligence
+Essence on Kill
+#END
